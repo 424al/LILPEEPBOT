@@ -2,4 +2,3 @@ linereader
 pip
 oauthlib
 tweepy
-random
