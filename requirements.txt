@@ -1,5 +1,4 @@
 linereader
 oauthlib
 tweepy
-copen
 random
