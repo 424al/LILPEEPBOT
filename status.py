@@ -10,7 +10,7 @@ from config import *
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
-
+#Chooses amount of lines from lyrics.py to tweet out to the connected twitter account.
 lyrics = copen('lyrics.txt')
 lines = lyrics.count('\n')
 lastline = 0
