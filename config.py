@@ -1,5 +1,7 @@
-consumer_key = "fn3SmgFFD58zYS6b4kJdxbsCZ"
-consumer_secret = "HXe7uh65CVmJ0OuNktxWxw5TKkehuniqlztHcT5juZQINH1TZg"
+#KEYS AND TOKENS OBTAINED FROM TWITTER FOR DEVS.
 
-access_token = "1151213707327725568-BT4U4CfR2zBexDhdZlvTgFO9fjjOLE"
-access_token_secret = "iTInU7rmk3RTFaJetUEX3WjP8NYJmNLSPLjQf6yWC3iFH"
+consumer_key = "YOUR CONSUMER KEY"
+consumer_secret = "YOUR CONSUMER SECRET"
+
+access_token = "YOUR ACCESS TOKEN"
+access_token_secret = "YOUR SECRET ACCESS TOKEN HERE"
